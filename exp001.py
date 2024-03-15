@@ -1,0 +1,1 @@
+print ("rananjay's practical")

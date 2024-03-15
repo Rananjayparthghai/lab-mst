@@ -4,7 +4,7 @@ app = Flask(name)
 
 @app.route('/')
 def hello():
-    return '\n\n\t\tKrish Jindal | 21BCS7871'
+    return '\n\n\t\tRananjay's practical | 21BCS3357'
 
 if name == 'main':
     app.run(debug=True)
